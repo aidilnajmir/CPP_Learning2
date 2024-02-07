@@ -1,0 +1,51 @@
+Sun Apr 17 23:19:46 2022
+# of items: 2
+total: $3.29
+items: 
+napkin
+test1
+
+Sun Apr 17 23:21:26 2022
+# of items: 2
+total: $3.29
+items: 
+napkin
+test4
+
+Sun Apr 17 23:23:32 2022
+# of items: 2
+total: $6.18
+items: 
+napkin
+milk
+
+Sun Apr 17 23:25:09 2022
+# of items: 1
+total: $4.99
+items: 
+milk
+
+Sun Apr 17 23:25:33 2022
+# of items: 1
+total: $4.99
+items: 
+milk
+Sun Apr 17 23:25:33 2022
+# of items: 1
+total: $1.19
+items: 
+napkin
+
+Mon Apr 18 00:01:35 2022
+# of items: 1
+total: $4.99
+items: 
+milk
+
+Mon Apr 18 00:56:45 2022
+# of items: 2
+total: $8.98
+items: 
+juice
+biscuit
+

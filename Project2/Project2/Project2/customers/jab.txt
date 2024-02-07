@@ -1,0 +1,7 @@
+Mon Apr 18 01:07:18 2022
+# of items: 2
+total: $9.98
+items: 
+juice
+juice
+

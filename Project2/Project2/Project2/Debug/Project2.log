@@ -1,0 +1,14 @@
+﻿  Source.cpp
+E:\Sem 2\CIS 200\Project2\Project2\Project2\inventory.h(28,21): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\inventory.h(41,20): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\inventory.h(55,20): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\inventory.h(64,20): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\inventory.h(86,21): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\inventory.h(123,20): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\Customer.h(31,20): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\Customer.h(33,21): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\Customer.h(95,21): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\Customer.h(100,22): warning C4018: '<': signed/unsigned mismatch
+E:\Sem 2\CIS 200\Project2\Project2\Project2\inventory.h(37): warning C4715: 'inventory::getItemFromString': not all control paths return a value
+E:\Sem 2\CIS 200\Project2\Project2\Project2\inventory.h(74): warning C4715: 'inventory::getItemIndex': not all control paths return a value
+  Project2.vcxproj -> E:\Sem 2\CIS 200\Project2\Project2\Debug\Project2.exe
